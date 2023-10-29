@@ -11,4 +11,4 @@ It seems you've stumbled upon my github profile.
 
 ### External Projects
 
-- [ArcOS](https://github.com/izk-arcos) - The OS that runs in your browser -- pushing the limits of web technologies
+- [<img width="20" height="20" src="/assets/arcos.svg"></img> ArcOS](https://github.com/izk-arcos) - The OS that runs in your browser -- pushing the limits of web technologies
