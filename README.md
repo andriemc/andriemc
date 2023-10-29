@@ -12,12 +12,3 @@ It seems you've stumbled upon my github profile.
 ### External Projects
 
 - [ArcOS](https://github.com/izk-arcos) - The OS that runs in your browser -- pushing the limits of web technologies
-
-### Facts
-
-#### Me
-- I like Music!
-
-### General
-- Gravity floats!
-- The earth is round
